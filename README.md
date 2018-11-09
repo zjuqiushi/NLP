@@ -1,4 +1,7 @@
 # NLP
+## 文本预处理
+[文本数据处理的终极指南-[NLP入门]](https://www.jianshu.com/p/37e529c8baa9)<br>
+
 ## 词袋模型
 [Bag-of-words模型入门](https://zhuanlan.zhihu.com/p/29933242)<br>
 
